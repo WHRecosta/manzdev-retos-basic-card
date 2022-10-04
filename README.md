@@ -4,20 +4,14 @@
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦄 **Desarrollador/a:** *Walter Recosta*
+- 🐇 **Link a red social:** *https://www.linkedin.com/in/walter-hugo-recosta*
+- 🦾 **Perfil:** *Medio*
+- 💬 **A mejorar siempre**: *-*
 
 ## Observaciones
 
-*Escribe aquí tus observaciones sobre la implementación*
+*Esta tarjeta es un reto propuesto por MANDZDEV, esta escrita con CSS y HTML. Se utilizan, metodologia BEM y variables para normalizar colores.*
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
 
----
-*Puedes borrar todo desde esta línea en adelante*
-
----
-
-Recuerda cambiar el título del repo, los datos y desplegar la versión en GitHub Pages e indicar la URL en la esquina superior derecha de tu repositorio de GitHub, junto a una pequeña descripción.
