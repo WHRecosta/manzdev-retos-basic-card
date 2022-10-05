@@ -1,4 +1,4 @@
-# manzdev-retos-titulo
+# Tarjeta de Usuario -> Solo CSS
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
